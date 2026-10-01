@@ -1,4 +1,5 @@
 name: Build Nüans Mebel APK
+# Android APK build workflow
 
 on:
   workflow_dispatch:
